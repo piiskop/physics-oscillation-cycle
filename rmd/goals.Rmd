@@ -1,0 +1,5 @@
+# Töö eesmärgid
+
+1. Võnkeringi vooluresonants uuritud.
+
+2. Resonantssageduse arvutamise valem katseliselt kontrollitud.

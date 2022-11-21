@@ -1,0 +1,13 @@
+# Töövahendid
+
+## PASCO interfeis
+
+## võimsusvõimendi (Power amplifier),
+
+## heligeneraator või interfeisi signaalgeneraator (Pasco interfeiside 550 ja 750 korral),
+
+## pingesensor
+
+## juhtmed
+
+## võnkering

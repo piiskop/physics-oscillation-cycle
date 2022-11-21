@@ -1,0 +1,7 @@
+# Praktika
+
+Kasutasime kohalikku sülerit, milles *Capstone*'i. Voolugeneraatoriks oli *PASCO 550*, mille ühendasime süleriga. Generaatorisse ühendasime analoogsisendisse *A* pingesensori. Generaatori väljundi *OUTPUT* ühendasime võnkeringi $10 \cdot \Omega$ takisti ja $100 \cdot \mathrm{\mu F}$ kondensaatoriga. Südamiku pistsime pooli. Pingesensori ühendasime võnkeringi  takisti otstele. Lülitasime generaatori sisse.
+
+*Capstone*'s kasutasime mõõtmiseks *Fast Monitor Mode*'i. Igaks mõõtmiseks vajutasime nupule *Monitor* ja andmete täppislugemiseks nupule *Stop*. Sobitasime graafiku selliseks, et saime välja lugeda üldiselt sinusoidse kujuga graafiku maksimumi. Niiviisi mõõtsime pingelangu sageduste vahemikus $10 \cdot \Omega$ kuni $160 \cdot \Omega$.
+
+Mõõtmised tehtud, lasin arvutada iga tabelisse kantud mõõtmistulemuse kohta voolu. Selgus, et maksimaalne voolutugevus on sageduse 
